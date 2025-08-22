@@ -16,9 +16,6 @@
 
 💬 Ask me about **Node.js, React, MongoDB... or anything [Here](https://github.com/Alvee3120/alvee3120/issues)**
 
-![GitHub followers](https://img.shields.io/github/followers/alvee3120?style=social)
-![GitHub stars](https://img.shields.io/github/stars/alvee3120?style=social)
-![Profile views](https://komarev.com/ghpvc/?username=alvee3120&color=blue)
 
 
 
