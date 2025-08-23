@@ -29,6 +29,7 @@
   />
   <img alt="Breakout Game" src="images/breakout-light.svg" />
 </picture>
+
  </div>
  
 <div align="center"> 
