@@ -46,10 +46,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-    
-<picture>
+    <picture>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="images/breakout-dark.svg"
@@ -60,6 +57,10 @@
   />
   <img alt="Breakout Game" src="images/breakout-light.svg" />
 </picture>
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+    
+
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/alvee3120/alvee3120/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
