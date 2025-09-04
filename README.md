@@ -12,9 +12,9 @@
  
  🔭 I’m currently working on **Tech4Realty**
  
- 🌱 I’m currently learning **MERN Stack**
+ 🌱 I’m currently learning **Full Stack Web Development**
 
-💬 Ask me about **Node.js, React, MongoDB... or anything [Here](https://github.com/Alvee3120/alvee3120/issues)**
+
 
 
 
