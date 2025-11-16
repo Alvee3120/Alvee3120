@@ -11,7 +11,7 @@
 
 <div align="center" > 
  
- 🔭 I’m currently working on **Tech4Realty**
+ 🔭 I have worked in **Tech4Realty**
  
  🌱 I’m currently learning **Full Stack Web Development**
 
