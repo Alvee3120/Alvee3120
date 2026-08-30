@@ -79,17 +79,21 @@
 
   <br/><br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alvee3120&theme=redical&hide_border=true" alt="activity graph" width="90%" />
-
-  <br/><br/>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=alvee3120&theme=radical&no-frame=true&row=1&column=6" alt="trophies" width="90%" />
+  <a href="https://github.com/alvee3120?tab=repositories">
+    <img src="https://img.shields.io/github/stars/alvee3120?style=for-the-badge&color=e74c3c&labelColor=1c1c1c&logo=github" alt="total stars" />
+  </a>
+  <a href="https://github.com/alvee3120">
+    <img src="https://img.shields.io/github/followers/alvee3120?style=for-the-badge&color=e74c3c&labelColor=1c1c1c&logo=github" alt="followers" />
+  </a>
+  <a href="https://github.com/alvee3120?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=e74c3c&labelColor=1c1c1c&logo=github&label=Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Falvee3120" alt="public repos" />
+  </a>
 
   <br/>
 
 </div>
 
-> ⚠️ These widgets run on free Vercel deployments and sometimes fail to fetch due to rate limits — if an image shows broken, just refresh the page after a bit, or consider [self-hosting](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) your own instance for reliability.
+> ⚠️ The stats/streak cards above run on free Vercel deployments and can occasionally fail to fetch due to rate limits — if an image shows broken, just refresh the page after a bit, or consider [self-hosting](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) your own instance for reliability. The Shields.io badges above pull straight from the GitHub API, so they're much less likely to break.
 <br/><br/>
 <hr/>
 <br/>
