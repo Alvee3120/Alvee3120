@@ -68,14 +68,28 @@
 <hr/>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
-  
-<img src="https://github-readme-stats.vercel.app/api?username=alvee3120&show_icons=true&theme=radical" alt="github stats" width="45%" align="right"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvee3120&layout=compact" alt="streak stats"/>
-  
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=alvee3120&show_icons=true&theme=radical&count_private=true" alt="github stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvee3120&layout=compact&theme=radical" alt="top languages" width="38%" />
+
+  <br/><br/>
+
+  <img src="https://streak-stats.demolab.com?user=alvee3120&theme=radical" alt="streak stats" width="60%" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alvee3120&theme=redical&hide_border=true" alt="activity graph" width="90%" />
+
+  <br/><br/>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=alvee3120&theme=radical&no-frame=true&row=1&column=6" alt="trophies" width="90%" />
+
   <br/>
-  
+
 </div>
+
+> ⚠️ These widgets run on free Vercel deployments and sometimes fail to fetch due to rate limits — if an image shows broken, just refresh the page after a bit, or consider [self-hosting](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) your own instance for reliability.
 <br/><br/>
 <hr/>
 <br/>
