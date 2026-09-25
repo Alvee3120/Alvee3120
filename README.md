@@ -70,8 +70,7 @@
 <br>
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=alvee3120&show_icons=true&theme=radical&count_private=true" alt="github stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvee3120&layout=compact&theme=radical" alt="top languages" width="38%" />
+  <img src="https://git-activity-graph.vercel.app/api/graph?username=alvee3120&type=line&theme=custom&background=ffffff&text=1f2328&border=d0d7de&labelColor=000000&countColor=ff0000&lineColor=f06000&pointColor=000000&pointBorderColor=ffffff&areaColor=f58f00&gridColor=000000&borderRadius=13&borderWidth=2&fontSize=14" alt="GitHub Contribution Line Graph" width="100%" />
 
   <br/><br/>
 
@@ -93,7 +92,7 @@
 
 </div>
 
-> ⚠️ The stats/streak cards above run on free Vercel deployments and can occasionally fail to fetch due to rate limits — if an image shows broken, just refresh the page after a bit, or consider [self-hosting](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) your own instance for reliability. The Shields.io badges above pull straight from the GitHub API, so they're much less likely to break.
+> ⚠️ The contribution graph and streak card above run on free deployments and can occasionally fail to load due to rate limits — if an image shows broken, just refresh the page after a bit. The Shields.io badges above pull straight from the GitHub API, so they're much less likely to break.
 <br/><br/>
 <hr/>
 <br/>
