@@ -92,7 +92,7 @@
 
 </div>
 
-> ⚠️ The contribution graph and streak card above run on free deployments and can occasionally fail to load due to rate limits — if an image shows broken, just refresh the page after a bit. The Shields.io badges above pull straight from the GitHub API, so they're much less likely to break.
+> The contribution graph and streak card above run on free deployments and can occasionally fail to load due to rate limits — if an image shows broken, just refresh the page after a bit. The Shields.io badges above pull straight from the GitHub API, so they're much less likely to break.
 <br/><br/>
 <hr/>
 <br/>
