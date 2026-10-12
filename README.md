@@ -13,7 +13,7 @@
 
  🚀 Currently working as a **Web Developer** at **Shordindu**
 
- 🌱 I'm currently learning **Full Stack Web Development**
+ 🌱 I'm currently learning **Software Development with AI Engineering**
  </div>
  
 <div align="center"> 
